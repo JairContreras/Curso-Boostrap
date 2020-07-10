@@ -39,5 +39,16 @@ body{
 }
 
 .navbar-dark {
-    background-color: #512DA8;
+    background-color: #465C69;
+}
+
+.card .card-header{
+    background-color: #363457;
+
+}
+
+.custom{
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
 }
